@@ -1,0 +1,5 @@
+com/example/elastic/config/EsConfig.class
+com/example/elastic/ElasticApplication.class
+com/example/elastic/service/EsService$Article.class
+com/example/elastic/service/EsService.class
+com/example/elastic/controller/ApiController.class
